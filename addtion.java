@@ -10,3 +10,4 @@ echo " enter the numbers to addtion in the file by using the read command"
   echo "sever is active or not"
   service status sshd
 
+system ctl unit files
